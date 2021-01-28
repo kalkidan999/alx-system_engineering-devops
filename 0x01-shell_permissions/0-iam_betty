@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod -l user betty
+usermod -u 12345 85604f0775b8
