@@ -1,1 +1,2 @@
-8-firstdelete
+#!/bin/bash
+rm betty /tmp/holbertone
