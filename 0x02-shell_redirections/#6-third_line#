@@ -1,0 +1,3 @@
+#!/bin/bash
+h
+ead -3 iacta | tail +3

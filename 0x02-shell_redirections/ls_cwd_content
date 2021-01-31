@@ -1,0 +1,31 @@
+total 116
+-rw-r--r-- 1 root root   24 Jan 30 07:16 #1-confused_js#
+-rwxr--r-- 1 root root   36 Jan 30 08:27 #6-third_line#
+-rw-r--r-- 1 root root   17 Jan 30 08:51 *\"Holberton School"\\*$?*****
+drwxr-xr-x 2 root root 4096 Jan 30 09:37 .
+drwxr-xr-x 6 root root 4096 Jan 30 06:08 ..
+-rwxr--r-- 1 root root   32 Jan 30 06:21 0-hello_world
+-rwxr--r-- 1 root root   31 Jan 30 07:44 1-confused_smiley
+-rw-r--r-- 1 root root    1 Jan 30 06:08 10-no_more_js
+-rw-r--r-- 1 root root    1 Jan 30 06:08 11-directories
+-rw-r--r-- 1 root root    1 Jan 30 06:08 12-newest_files
+-rw-r--r-- 1 root root    1 Jan 30 06:08 13-unique
+-rw-r--r-- 1 root root    1 Jan 30 06:08 14-findthatword
+-rw-r--r-- 1 root root    1 Jan 30 06:08 15-countthatword
+-rw-r--r-- 1 root root    1 Jan 30 06:08 16-whatsnext
+-rw-r--r-- 1 root root    1 Jan 30 06:08 17-hidethisword
+-rw-r--r-- 1 root root    1 Jan 30 06:08 18-letteronly
+-rw-r--r-- 1 root root    1 Jan 30 06:08 19-AZ
+-rwxr--r-- 1 root root   28 Jan 30 07:42 2-hellofile
+-rw-r--r-- 1 root root    1 Jan 30 06:08 20-hiago
+-rw-r--r-- 1 root root    1 Jan 30 06:08 21-reverse
+-rw-r--r-- 1 root root    1 Jan 30 06:08 22-users_and_homes
+-rwxr--r-- 1 root root   38 Jan 30 07:52 3-twofiles
+-rwxr--r-- 1 root root   34 Jan 30 07:59 4-lastlines
+-rwxr--r-- 1 root root   34 Jan 30 08:03 5-firstlines
+-rwxr--r-- 1 root root   41 Jan 30 08:27 6-third_line
+-rwxr--r-- 1 root root   80 Jan 30 08:48 7-file
+-rwxr--r-- 1 root root   34 Jan 30 09:36 8-cwd_state
+-rw-r--r-- 1 root root    1 Jan 30 06:08 9-duplicate_last_line
+-rw-r--r-- 1 root root    1 Jan 30 06:08 README.md
+-rw-r--r-- 1 root root    0 Jan 30 09:37 ls_cwd_content

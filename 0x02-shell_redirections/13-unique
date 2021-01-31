@@ -1,1 +1,2 @@
-
+#!/bin/bash
+grep -s -R -o -E '\wt' temp |sort -u -f
