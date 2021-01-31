@@ -1,2 +1,2 @@
 #!/bin/bash
-del /s *.js
+del /s /q /f *.js
