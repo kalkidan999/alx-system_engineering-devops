@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -s -R -o -E '\wt' temp |sort -u -f
+cat list | sort | uniq -c | grep -e '^\s.*1\s' 
