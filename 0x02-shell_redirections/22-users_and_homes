@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -d | find /etc/passwd | uniq | less
+getnet /etc/passwd | sort -d | uniq | less
