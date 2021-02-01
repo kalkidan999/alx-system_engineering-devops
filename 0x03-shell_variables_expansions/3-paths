@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -links +2
+find . -type d 
