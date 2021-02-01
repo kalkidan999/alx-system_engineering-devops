@@ -1,2 +1,2 @@
 #!/bin/bash
-find -min depth l -type d | wc -l 
+ls -alt | head -n 10
