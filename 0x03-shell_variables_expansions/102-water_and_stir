@@ -1,0 +1,2 @@
+#!/bin/bash
+behlnort=echo "$(($water+$stir))
