@@ -1,2 +1,2 @@
 #!/bin/bash
-behlnort=echo "$(($water+$stir))
+behlnort='echo $(($water+$stir))'
