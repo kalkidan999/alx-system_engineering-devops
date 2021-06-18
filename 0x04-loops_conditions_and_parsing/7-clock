@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Bash script that displays the time for 12 hours and 59 minutes
 i=0
-j = 0
+j=0
 while [ $i -le 12 ]
 do
 if [ $i -eq $i ]
@@ -11,4 +11,5 @@ while [ $j -le 59 ]
 echo $j
 ((i++))
 ((j++))
+done
 done
