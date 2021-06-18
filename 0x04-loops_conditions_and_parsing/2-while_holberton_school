@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 # script for displaying "Holberton School" 10 times
-valid = true
-count = 0
-while [$valid]
-if [$count -eq 10];
+i = 0
+while [$i < 10]
 do
 echo "Holberton School"
 done
