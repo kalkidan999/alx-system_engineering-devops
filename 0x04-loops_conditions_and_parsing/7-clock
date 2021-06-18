@@ -9,7 +9,7 @@ then
 echo "Hour: $i"
 while [ $j -le 59 ]
 echo $j
-((i++))
 ((j++))
+((i++))
 done
 done
