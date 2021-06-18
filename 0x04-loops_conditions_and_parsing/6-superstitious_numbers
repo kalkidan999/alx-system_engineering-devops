@@ -11,9 +11,11 @@ echo $i
 echo "bad luck from China"
 elif [ $i -eq 9 ]
 then
+echo $i
 echo "bad luck from Japan"
 elif [ $i -eq 17 ]
 then
+echo $i
 echo "bad luck from Italy"
 else
 echo $i
