@@ -5,13 +5,13 @@
 i=1
 while [ $i -le 20 ]
 do
-if [ $ i -eq 4 ]
+if [ $i -eq 4 ]
 then
 echo "bad luck from China"
-elif [ $ i -eq 9 ]
+elif [ $i -eq 9 ]
 then
 echo "bad luck from Japan"
-elif [ $ i -eq 17 ]
+elif [ $i -eq 17 ]
 then
 echo "bad luck from Italy"
 else
