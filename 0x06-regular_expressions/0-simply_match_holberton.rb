@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-/Holberton/i
+puts ARGV[0].scan(/Holberton/).join
