@@ -21,8 +21,8 @@ Each file contains a link to an image hosted on Imgur. These images are based on
 On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
 You must use:
 
-1 physical server
-1 web server (Nginx)
+* 1 physical server
+** 1 web server (Nginx)
 1 application server
 1 application files (your code base)
 1 database (MySQL)
