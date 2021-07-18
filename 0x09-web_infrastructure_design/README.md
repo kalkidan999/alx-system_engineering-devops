@@ -51,6 +51,5 @@ You must add to 2-secured_and_monitored_web_infrastructure:
 * 1 load-balancer (HAproxy) configured as cluster with the other one
 * Split components (web server, application server, database) with their own server
 ## Authors
-* Kalkidan Demes
-* Amanuel Sisay
-* Heyeman Urgessa 
+* Kalkidan Demes - kalkidandemes99@gmail.com
+
