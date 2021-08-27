@@ -15,7 +15,7 @@ frontend load_balancer
     default_backend webserver
 backend webserver
     balance roundrobin
-    server 145-web-01 34.73.71.102:80 check
-    server 145-web-02 35.229.16.103:80 check
+    server 145-web-01 34.75.104.239:80 check
+    server 145-web-02 34.73.71.102:80 check
 " >> /etc/haproxy/haproxy.cfg
 sudo service haproxy restart
